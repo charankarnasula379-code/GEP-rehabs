@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO: Uncomment and update with production domain when live
+# Sitemap: https://your-domain.com/sitemap.xml
